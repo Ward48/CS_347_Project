@@ -1,0 +1,9 @@
+Customer in Mind
+
+Since the Conductor is the true customer of our product, we aimed to make a simple, yet effective
+method of conveying information to the Conductor. The GUI was made with simple icons that would glow
+and a suggested course of action would appear, promted with a sound. This was to ensure that the Conductor
+could quickly see what the suggested action is and be able to respond quickly and precisely. The suggested actions
+are short with large font, which makes them very readable. The icons that glows in response to what is detected
+by the sensors are very distinct from each other and represent show the Conductor why the suggested action is 
+being suggestion.
